@@ -15,7 +15,7 @@
         font-family: "Poppins", sans-serif;
         margin: 0;
     }
-    .box {
+    
         width: 380px;
         background: #141414;
         padding: 30px;
