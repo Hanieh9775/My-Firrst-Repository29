@@ -51,7 +51,7 @@
         font-size: 16px;
     }
     button:hover {
-        background: #009ebc;
+        background: #009ebc;input
     }
     #qrBox {
         margin-top: 20px;
